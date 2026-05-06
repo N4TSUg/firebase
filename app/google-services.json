@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "971140913922",
+    "firebase_url": "https://movil-de1e7-default-rtdb.firebaseio.com",
+    "project_id": "movil-de1e7",
+    "storage_bucket": "movil-de1e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971140913922:android:e43d5fc5a452024ff9401b",
+        "android_client_info": {
+          "package_name": "com.cean.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXUhOnzDNz2xFCuJ365QuD9jOkncJAnds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971140913922:android:6b894c613c53784bf9401b",
+        "android_client_info": {
+          "package_name": "com.upn.movilapp3431"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXUhOnzDNz2xFCuJ365QuD9jOkncJAnds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
